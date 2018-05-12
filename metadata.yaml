@@ -1,10 +1,16 @@
 _repo: Karte-und-Kroki_50456
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50456-h/images/cover2.jpg
 creator:
   author:
     agent_name: Wolf, Hans
     gutenberg_agent_id: '45916'
     url: http://www.gutenberg.org/2009/agents/45916
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50456#Karte-und-Kroki
 gutenberg_issued: '2015-11-14'
 gutenberg_type: Text
 identifiers:
